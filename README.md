@@ -11,7 +11,6 @@ This project utilizes a deep learning model to classify wines into quality categ
 - **`wine_quality_prediction.py`**: Main script for the wine quality prediction.
 - **`wine_quality_analysis.pdf`**: PDF report containing visualizations and insights.
 - **`data/`**: Folder containing the dataset.
-- **`images/`**: Images generated during the analysis.
 
 ## Getting Started
 
